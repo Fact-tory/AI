@@ -1,0 +1,7 @@
+# 환경 변수
+.env
+
+# 관련 데이터셋
+model/fact_opinion
+model/.gitignore
+model/TL_뉴스_IT과학.zip

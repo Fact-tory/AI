@@ -1,0 +1,11 @@
+numpy
+mxnet
+gluonnlp==0.8.0
+pandas
+tqdm
+sentencepiece
+transformers
+torch
+wandb
+git+https://github.com/SKTBrain/KoBERT.git#egg=kobert_tokenizer&subdirectory=kobert_hf
+git+https://github.com/huggingface/trl.git
